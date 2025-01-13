@@ -23,7 +23,7 @@ This Chrome extension allows users to easily save and categorize LinkedIn posts 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LinkedIn-Post-Archiver.git
+   git clone https://github.com/your-username/linkedIn-post-saver.git
    ```
 
 2. Navigate to `chrome://extensions` in your Chrome browser.
